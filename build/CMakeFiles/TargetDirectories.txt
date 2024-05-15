@@ -1,3 +1,0 @@
-/home/ambitionyc/mything/create_my_sever/WebServer/build/CMakeFiles/web_server.dir
-/home/ambitionyc/mything/create_my_sever/WebServer/build/CMakeFiles/edit_cache.dir
-/home/ambitionyc/mything/create_my_sever/WebServer/build/CMakeFiles/rebuild_cache.dir
