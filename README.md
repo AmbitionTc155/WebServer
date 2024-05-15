@@ -15,9 +15,12 @@
 * Complier: g++ 11.4
 
 ## Build
+```shell
+  #要将当前终端移动到build文件夹下面，然后在终端输入以下命令即可
   cd build  
   cmake ..  
   make  
+```
 
 ## Usage
 
