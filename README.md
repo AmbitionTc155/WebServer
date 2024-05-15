@@ -15,10 +15,9 @@
 * Complier: g++ 11.4
 
 ## Build
-  cd build
-  cmake ..
-	make
-
+  cd build  
+  cmake ..  
+  make  
 
 ## Usage
 
